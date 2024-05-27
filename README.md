@@ -1,3 +1,4 @@
+# 🚧 This repo has been moved to [prescientmoon/purescript-esbuild-template](https://github.com/prescientmoon/purescript-esbuild-template) 🚧
 # Purescript esbuild template
 
 How to use:
